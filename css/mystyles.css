@@ -1,0 +1,77 @@
+body{
+    background-color:rgb(198, 215, 237);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tableaustyle{
+    margin: auto;
+}
+ol{
+    color: navy;
+}
+h1{
+    background-color:whitesmoke;
+    color:navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size:xx-large;
+    border-width: 1px;
+    border-style: solid;
+    border-color: navy;
+    padding: 10px;
+}
+
+.myh3{
+    background-color:whitesmoke;
+    color:rgb(241, 184, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size:large;
+    border-width: 1px;
+    border-style: solid;
+    border-color: navy;
+    padding: 10px;
+    position: relative;
+}
+
+.secondtitle{
+    background-color:whitesmoke;
+    color:rgb(241, 184, 37);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-width: 1px;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.navybold{
+    color: navy;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraph{
+    color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size:large;
+    background-color: navy;
+}
+.centertext {
+    text-align: center;
+    list-style-position: inside;
+  } 
+  .points{
+    color:navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size:medium;
+}
+.notcentered{
+    text-align: left;
+    position: relative;
+}
